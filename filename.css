@@ -1,0 +1,56 @@
+html {
+    -webkit-text-size-adjust: none;
+}
+body {
+  background-color: NavajoWhite;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 18px
+  background-color: SaddleBrown;
+  text-align: left;
+}
+img {
+  width: 20px
+  height: 20px
+}
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 16px
+  background-color: Sienna;
+  text-align: center;
+}
+h3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 16px
+  background-color: Sienna;
+  text-align: center;
+}
+ul li {
+  list-style-type:circle;
+}
+h4 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 16px
+  background-color: Sienna;
+  text-align: center;
+}
+h5 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 16px
+  background-color: Sienna;
+  text-align: center;
+}
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 13px
+  font-color: Sienna;
+  text-align: justify;
+}
+p1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 15px
+  font-color: Sienna;
+  text-align: justify;
+}
